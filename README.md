@@ -1,2 +1,2 @@
 # hangman
-a small python script i wrote to play hangman :)
+a small python script i wrote to play hangman :D
